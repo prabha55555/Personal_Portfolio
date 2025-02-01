@@ -1,10 +1,25 @@
-﻿# Personal_Portfolio
+﻿# Personal Portfolio
 
-Feel free to explore more about me https://prabha55555.github.io/Personal_Portfolio/
+Welcome to my personal portfolio! This project showcases my skills, projects, and experiences in web development, AI, and technology. The portfolio is designed to provide an overview of my work, achievements, and areas of expertise.
 
-<h1 align="center">Hi 👋, I'm Prabhakaran K</h1>
-<h3 align="center">A passionate AI and FullStack developer from TamilNadu</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabarishcodewizard&label=Profile%20views&color=0e75b6&style=flat" alt="sabarishcodewizard" /> </p>
+## 🚀 Features
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- **Home Page**: A brief introduction about me and my professional journey.
+- **Projects**: Highlights of my key projects, including technologies used and their impact.
+- **Skills**: A showcase of my technical and professional skills.
+- **Resume**: Downloadable version of my resume.
+- **Contact**: A section to connect with me via email or social media.
+
+## 🛠️ Technologies Used
+
+    HTML
+    CSS 
+    JS
+    GIT
+    
+## 📬 Contact
+
+Feel free to reach out to me:
+
+- **Email**: k.prabhakaran.in@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/prabhakaran-kpr)
