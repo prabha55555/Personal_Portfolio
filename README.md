@@ -22,4 +22,4 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 Feel free to reach out to me:
 
 - **Email**: k.prabhakaran.in@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/prabhakaran-kpr)
+- **LinkedIn**: [ LinkedIn Profile](linkedin.com/in/prabhakaran-kpr)
